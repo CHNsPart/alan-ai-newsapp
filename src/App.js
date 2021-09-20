@@ -19,7 +19,7 @@ const App = () => {
 
     return (
         <>
-            <h1 className="center">CHNsPart NewsApp powred by Alan-AI</h1>
+            <h1 className="center">CHNsPart NewsApp powered by Alan-AI</h1>
         </>
     );
 }
